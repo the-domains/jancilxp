@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[jancilxp]]></title>
         <description><![CDATA[jancilxp]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/jancilxp/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 19 Mar 2016 21:39:14 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 20 Mar 2016 01:00:06 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/jancilxp/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/6e3b841d-91bb-4ad2-8a3e-fc8a0022cba4.jpg">]]></description>
+            <link>https://thegrid.ai/jancilxp/a4b11d1e-bbd1-4ebc-a308-5de17a847769/index.html</link>
+            <guid isPermaLink="false">a4b11d1e-bbd1-4ebc-a308-5de17a847769</guid>
+            <pubDate>Sun, 20 Mar 2016 01:00:06 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b293aa24-d932-4748-b140-5ab7099a12ff.jpg">]]></description>
-            <link>undefinedmy-first-jancilxp-post/index.html</link>
+            <link>https://thegrid.ai/jancilxp/my-first-jancilxp-post/index.html</link>
             <guid isPermaLink="false">8aafe097-e0cd-4afe-a6b0-73c2ef5b4c71</guid>
             <pubDate>Sat, 19 Mar 2016 21:38:24 GMT</pubDate>
         </item>
